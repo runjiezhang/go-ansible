@@ -9,8 +9,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/apenella/go-ansible/stdoutcallback"
-	"github.com/apenella/go-ansible/stdoutcallback/results"
+	"github.com/runjiezhang/go-ansible/stdoutcallback"
+	"github.com/runjiezhang/go-ansible/stdoutcallback/results"
 )
 
 // DefaultExecute is a simple definition of an executor

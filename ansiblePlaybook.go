@@ -6,9 +6,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/apenella/go-ansible/execute"
-	"github.com/apenella/go-ansible/stdoutcallback"
 	common "github.com/apenella/go-common-utils/data"
+	"github.com/runjiezhang/go-ansible/execute"
+	"github.com/runjiezhang/go-ansible/stdoutcallback"
 )
 
 const (

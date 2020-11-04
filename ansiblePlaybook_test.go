@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/apenella/go-ansible/stdoutcallback"
+	"github.com/runjiezhang/go-ansible/stdoutcallback"
 	"github.com/stretchr/testify/assert"
 )
 
